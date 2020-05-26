@@ -10,7 +10,7 @@ This repository contains code and data for the ACL 2020 paper,
 ```
 The entity embeddings are tested on the following two linking models:
 * the [wnel](https://github.com/lephong/wnel) model
-* the [mulrel-nel](https://github.com/lephong/) model
+* the [mulrel-nel](https://github.com/lephong/mulrel-nel) model
 
 
 ## Generic steps
