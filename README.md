@@ -27,7 +27,7 @@ Download our data from [Googledrive](https://drive.google.com/open?id=1OtLnrH4Sp
 3) `type_list.ndjson` is the originally selected type words, `type_list_OOVs_remap.ndjson` is remapping OOV words.
 
 ### Download ganea's entity embeddings data
-Download from links in this [wenl]((https://github.com/lephong/wnel)) and [mulrel-nel](https://github.com/lephong/), get the following two files:
+Download from links in repository [wenl](https://github.com/lephong/wnel) and [mulrel-nel](https://github.com/lephong/), get the following two files:
 1) the entity dictionary `(ganea)dict.entity`
 2) the entity embeddings `(ganea)entity_embeddings.npy`
 
