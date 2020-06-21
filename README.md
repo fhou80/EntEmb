@@ -11,9 +11,10 @@ This repository contains code and data for the ACL 2020 paper,
 The entity embeddings are tested on the following two linking models:
 * the [wnel](https://github.com/lephong/wnel) model
 * the [mulrel-nel](https://github.com/lephong/mulrel-nel) model
-
+You can download the [entity embeddings](https://drive.google.com/file/d/1LFW888ewwzVaWP7mCNSejySbo-Wu56Sm/view?usp=sharing) directly and test them on your model.
 
 ## Generic steps
+if you want to reproduce the entity embeddings, please follow the following steps:
 * Download dataset
 * Generate the semantic entity embeddings
 * Generate the aggregated entity embeddings
